@@ -1,0 +1,20 @@
+
+# Core Deep Learning Framework
+# TensorFlow is used for building and training the CNN model.
+tensorflow
+
+# Web Interface
+# Gradio provides the interactive user interface for the classifier.
+gradio
+
+# Data Manipulation and Numerical Operations
+# NumPy is essential for handling arrays and numerical computations.
+numpy
+
+# Image Processing
+# Pillow (PIL) is used to open, resize, and process images uploaded by the user.
+Pillow
+
+# Data Visualization
+# Matplotlib is used to create the probability distribution plot in the detailed analysis tab.
+matplotlib
